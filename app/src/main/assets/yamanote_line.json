@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_name": "大崎",
+      "lon": 139.728439
+    },
+    {
+      "station_name": "五反田",
+      "lon": 139.728439
+    },    {
+      "station_name": "目黒",
+      "lon": 139.728439
+    },    {
+      "station_name": "恵比寿",
+      "lon": 139.728439
+    }
+  ]
+}
